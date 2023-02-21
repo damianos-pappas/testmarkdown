@@ -1,4 +1,4 @@
-# this is just a test for markdown wikis and gitbook
+# This is just a test for markdown wikis and gitbook
 
 Hello this is a test
 

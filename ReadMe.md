@@ -1,4 +1,4 @@
-# Heading
+# this is just a test for markdown wikis and gitbook
 
 Hello this is a test
 

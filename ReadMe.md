@@ -3,7 +3,7 @@
 Hello this is a test
 
 
-![Svn About](pictures/svn%20about.png)
+![Capture](pictures/Capture.PNG)
 
 [Link to somewhere](https://biskit.bisinfo.org/)
 

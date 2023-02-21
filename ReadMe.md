@@ -7,8 +7,6 @@ Hello this is a test
 
 [Link to somewhere](https://biskit.bisinfo.org/)
 
-[Link internal](Subfolder/AnotherReadMe.md)
-
 
 A list:
 - a
